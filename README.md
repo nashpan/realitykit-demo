@@ -1,1 +1,8 @@
-# realitykit-demo
+## realitykit-demo
+
+这个demo实现了下面的功能：
+- 加载一个reality composer工程文件到场景中
+- 在场景中指定位置添加一个model
+- 实现简单的物理碰撞效果
+- 将一个图片或者视频作为纹理添加到场景中
+- 添加usdz文件到场景中，并给它添加一个包围盒，以实现简单的物理碰撞
